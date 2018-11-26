@@ -1,22 +1,23 @@
 # Manager Readme
 ## What is this?
-This is my [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/), I have taken inspiration for this document from the various references found on the internet (see references). This read me is a convenient way to introduce myself as your manager. 
-
-The intended audience is primarily anyone who reports in to me, though anyone is free to read it - as well as provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
 
 Hello!
 
-`Disclaimer: This document apply to my personal management style and does not wholy refelect by our current employeer`
+This is my [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/), I have taken inspiration for this document from the various references found on the internet (see references). This read me is a convenient way to introduce myself as your manager and how I manage. 
+
+The intended audience is primarily anyone who reports in to me, although anyone is free to read and provide feedback on it. Please treat it as a reference and promise on how I will conduct myself as a manager, and what I require from my reports.
+
+`Disclaimer: This document applies to my personal management style, it is not an offical company policy, but I do pass this on to our leadership`
 
 ## My Job
 #### I am primarily here to do three things:
 
-1. Provide context
+1. To provide context
 2. Engage, retain, and grow world-class talent
-3. Manage and Build well functioning engineering teams
+3. Manage and Build a well functioning engineering team
 
 ## How I approach my job
-I believe in coloration and open mindedness. You are the expert, I lean on you to make the best holistic decisions I can for the team, for any project I lead, and for the company as a whole. Your successes ultimately define success for us all,  so I will do my utmost to make you successful.
+I believe in collaboration and open mindedness. You are the expert, I lean on you to make the best holistic decisions I can for the team, for any project I lead, and for the company as a whole. Your successes ultimately define success for us all,  so I will do my utmost to make you successful.
 
 My teams come first, with out a well staffed, and well functioning team, I will be unable to do the job, the product will fail, our company and their clients will not flourish.
 
