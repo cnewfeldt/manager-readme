@@ -3,11 +3,11 @@
 
 Hello!
 
-This is my [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/), I have taken inspiration for this document from the various references found on the internet (see references). This read me is a convenient way to introduce myself as your manager and how I manage. 
+This is my [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/), I have taken inspiration for this document from various references found on the internet (see references). This read me is a convenient way to introduce myself and how I manage. 
 
-The intended audience is primarily anyone who reports in to me, although anyone is free to read and provide feedback on it. Please treat it as a reference and promise on how I will conduct myself as a manager, and what I require from my reports.
+The intended audience is primarily anyone who reports in to me, although anyone is free to read and provide feedback. Please treat it as a reference on how I will conduct myself as a manager, and what I require from my reports.
 
-`Disclaimer: This document applies to my personal management style, it is not an offical company policy, but I do pass this on to our leadership`
+`Disclaimer: This document applies to my personal management style, and is not official company policy`
 
 ## My Job
 #### I am primarily here to do three things:
@@ -17,9 +17,9 @@ The intended audience is primarily anyone who reports in to me, although anyone 
 3. Manage and Build a well functioning engineering team
 
 ## How I approach my job
-I believe in collaboration and open mindedness. You are the expert, I lean on you to make the best holistic decisions I can for the team, for any project I lead, and for the company as a whole. Your successes ultimately define success for us all,  so I will do my utmost to make you successful.
+I believe in collaboration and open mindedness. You are the expert, I lean on you to help me make the best holistic decisions I can for the team, for any project I lead, and for the company as a whole. 
 
-My teams come first, with out a well staffed, and well functioning team, I will be unable to do the job, the product will fail, our company and their clients will not flourish.
+My teams come first, with out a well staffed, and well functioning team, I will be unable to do the job, the product will fail, our company and their clients will not flourish. It is my top priority to keep my reports well watered with plenty of sun light so they're supported to do their tasks and ultimately, their job.
 
 ## My Goals
 If I accomplish my goals it means that:
@@ -72,7 +72,7 @@ If I describe my ideal for our team and each person on it, it is that we:
 
 Note: 
 
-* If matters are not going well, I am always open to making it right. Any concerns are absolutely recoverable, and recovering from difficult periods builds trust. You’ve proven that you accept feedback, acknowledge your role in the situation, and are willing and capable of changing, growing, and improving.
+* If matters are not going well, I am always open to making it right. Any concerns are absolutely recoverable, and recovering from difficult periods builds trust. If you can accept feedback, acknowledge your role in the situation, and are willing and capable of changing, growing, and improving, any matter of performance can be worked out.
 
 ## References
 * [Manager README - original](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/)
