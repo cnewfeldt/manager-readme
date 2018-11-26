@@ -6,7 +6,7 @@ The intended audience is primarily anyone who reports in to me, though anyone is
 
 Hello!
 
-`Disclaimer: This document apply to my personal management style and does not wholy refelect by current employeer`
+`Disclaimer: This document apply to my personal management style and does not wholy refelect by our current employeer`
 
 ## My Job
 #### I am primarily here to do three things:
