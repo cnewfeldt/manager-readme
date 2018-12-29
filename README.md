@@ -74,6 +74,9 @@ Note:
 
 * If matters are not going well, I am always open to making it right. Any concerns are absolutely recoverable, and recovering from difficult periods builds trust. If you can accept feedback, acknowledge your role in the situation, and are willing and capable of changing, growing, and improving, any matter of performance can be worked out.
 
+## Some Self Help
+* Are you a procastinator? Watch [this](https://www.youtube.com/watch?v=5efBJgoMZKM)
+
 ## References
 * [Manager README - original](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/)
 * [Managers README - Aaron Lerch](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.g2ad8ef4d23_0_11)
