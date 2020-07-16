@@ -74,22 +74,22 @@ I have a specific format when completing 1-1s with team members. This is a livin
 
 - I use a shared google doc for myself and my report to review bi-monthly.
 - In this doc we have the following categories:
-  _ A revision history
-  `How many times we've met and the dates of meeting`
-  _ Things that went well
-  `This section describes Positive outcomes that went well since we last talked.`
-  _ Learnings
-  `This area is meant to document what you’ve been learning over the period since we last talked. This will help us focus discussion on your work and most importantly, promote growth.`
-  _ Shout Outs
-  `This area is meant to document people in the office who are doing awesome things.`
-  _ Goals
-  `A listing of your career goals over the next 1, 3 and 6 month time frames`
-  _ Questions
-  `Any questions you have to discuss, add here for me to review and document.`
-  _ Feedback
-  `If you have any feedback for me add it here and I will respond to it here. Please see the feedback section below for more information`
-  _ Action items
-  `Any action items we need to track based on our discussions from all the topic above.`
+  - A revision history
+    `How many times we've met and the dates of meeting`
+  - Things that went well
+    `This section describes Positive outcomes that went well since we last talked.`
+  - Learnings
+    `This area is meant to document what you’ve been learning over the period since we last talked. This will help us focus discussion on your work and most importantly, promote growth.`
+  - Shout Outs
+    `This area is meant to document people in the office who are doing awesome things.`
+  - Goals
+    `A listing of your career goals over the next 1, 3 and 6 month time frames`
+  - Questions
+    `Any questions you have to discuss, add here for me to review and document.`
+  - Feedback
+    `If you have any feedback for me add it here and I will respond to it here. Please see the feedback section below for more information`
+  - Action items
+    `Any action items we need to track based on our discussions from all the topic above.`
 
 ## Feedback
 
